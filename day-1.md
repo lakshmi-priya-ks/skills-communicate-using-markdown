@@ -11,3 +11,9 @@
 - Completed Markdown exercise
 - Learned about lists
 - Ready for next lesson
+
+## Code Example
+
+```python
+print("Hello, Markdown!")
+```
